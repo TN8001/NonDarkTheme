@@ -1,5 +1,5 @@
 ﻿# NonDarkTheme
-
+[![Build status](https://ci.appveyor.com/api/projects/status/2h4rlyirn6794c90/branch/master?svg=true)](https://ci.appveyor.com/project/TN8001/nondarktheme/branch/master)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 ![アプリスクリーンショット](AppImage.png)
 
